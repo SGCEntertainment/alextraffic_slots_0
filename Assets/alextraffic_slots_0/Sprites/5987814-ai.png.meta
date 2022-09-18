@@ -169,10 +169,10 @@ TextureImporter:
       name: 5987814-ai_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 553
-        width: 240
-        height: 248
+        x: 139
+        y: 544
+        width: 122
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,9 +191,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 299
-        y: 713
-        width: 181
-        height: 203
+        y: 544
+        width: 122
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: 5987814-ai_2
       rect:
         serializedVersion: 2
-        x: 529
-        y: 713
-        width: 215
-        height: 216
+        x: 460
+        y: 544
+        width: 121
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: 5987814-ai_3
       rect:
         serializedVersion: 2
-        x: 788
-        y: 765
-        width: 841
-        height: 137
+        x: 675
+        y: 544
+        width: 120
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: 5987814-ai_4
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 696
-        width: 216
-        height: 217
+        x: 869
+        y: 544
+        width: 121
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: 5987814-ai_5
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 697
-        width: 209
-        height: 217
+        x: 1083
+        y: 544
+        width: 103
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,10 +295,10 @@ TextureImporter:
       name: 5987814-ai_6
       rect:
         serializedVersion: 2
-        x: 2116
-        y: 590
-        width: 211
-        height: 216
+        x: 1240
+        y: 544
+        width: 48
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: 5987814-ai_7
       rect:
         serializedVersion: 2
-        x: 277
-        y: 84
-        width: 219
-        height: 544
+        x: 1308
+        y: 544
+        width: 48
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,10 +337,10 @@ TextureImporter:
       name: 5987814-ai_8
       rect:
         serializedVersion: 2
-        x: 528
-        y: 540
-        width: 390
-        height: 155
+        x: 1410
+        y: 544
+        width: 115
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,10 +358,10 @@ TextureImporter:
       name: 5987814-ai_9
       rect:
         serializedVersion: 2
-        x: 970
-        y: 277
-        width: 616
-        height: 447
+        x: 139
+        y: 338
+        width: 442
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: 5987814-ai_10
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 384
-        width: 495
-        height: 234
+        x: 673
+        y: 144
+        width: 318
+        height: 336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,10 +400,10 @@ TextureImporter:
       name: 5987814-ai_11
       rect:
         serializedVersion: 2
-        x: 60
-        y: 189
-        width: 194
-        height: 320
+        x: 1083
+        y: 338
+        width: 442
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +421,10 @@ TextureImporter:
       name: 5987814-ai_12
       rect:
         serializedVersion: 2
-        x: 513
-        y: 256
-        width: 440
-        height: 233
+        x: 139
+        y: 144
+        width: 442
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +442,10 @@ TextureImporter:
       name: 5987814-ai_13
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 100
+        x: 1083
+        y: 144
         width: 442
-        height: 246
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,69 +455,6 @@ TextureImporter:
       bones: []
       spriteID: 7a4477c512968d120800000000000000
       internalID: 2438814790227281063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 5987814-ai_14
-      rect:
-        serializedVersion: 2
-        x: 2089
-        y: 216
-        width: 266
-        height: 257
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12a412a271c8801f0800000000000000
-      internalID: -1078458079636272607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 5987814-ai_15
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 92
-        width: 463
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b57bf74a54e27eb40800000000000000
-      internalID: 5469391149112211291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 5987814-ai_16
-      rect:
-        serializedVersion: 2
-        x: 1060
-        y: 94
-        width: 540
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6840d65ebcf099f0800000000000000
-      internalID: -463592867188684693
       vertices: []
       indices: 
       edges: []

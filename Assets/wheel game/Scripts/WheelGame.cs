@@ -9,13 +9,8 @@ public class WheelGame : MonoBehaviour
 	public bool gameStarted;
 
 	public Transform wheel;
-
-	public GameObject boom;
-
 	public AudioSource source;
-
 	public Button spinBtn;
-
 	public Prizes prizes;
 
 	private void OnEnable()
@@ -106,11 +101,6 @@ public class WheelGame : MonoBehaviour
 		int finalAngle = Mathf.RoundToInt(wheel.eulerAngles.z);
 
 		int prize = GetPrizeCount(finalAngle);
-
-		if (prize == prizes.prize[3])
-		{
-			Instantiate(boom, transform);
-		}
 
 		Manager.Instance.UpdateCoinsCount(prize);
 
