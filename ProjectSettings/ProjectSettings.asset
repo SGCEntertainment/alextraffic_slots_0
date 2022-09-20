@@ -6,7 +6,6 @@ PlayerSettings:
   serializedVersion: 22
   productGUID: c13d86db114bf4a46a150a0d6efe57b7
   AndroidProfiler: 0
-  AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -547,7 +546,7 @@ PlayerSettings:
   webGLTemplate: PROJECT:Better2020
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 0
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
